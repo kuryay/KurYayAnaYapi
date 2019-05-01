@@ -7,6 +7,6 @@ namespace KurYayAnaYapi.Models.Abstract
 {
     public interface IEntity
     {
-
+        
     }
 }
