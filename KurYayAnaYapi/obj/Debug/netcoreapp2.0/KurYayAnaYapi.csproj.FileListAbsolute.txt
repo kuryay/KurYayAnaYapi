@@ -1,0 +1,11 @@
+D:\YazilimProjeleri2019\KurYayProjeler\KurYayAnaYapi\KurYayAnaYapi\bin\Debug\netcoreapp2.0\KurYayAnaYapi.deps.json
+D:\YazilimProjeleri2019\KurYayProjeler\KurYayAnaYapi\KurYayAnaYapi\bin\Debug\netcoreapp2.0\KurYayAnaYapi.runtimeconfig.json
+D:\YazilimProjeleri2019\KurYayProjeler\KurYayAnaYapi\KurYayAnaYapi\bin\Debug\netcoreapp2.0\KurYayAnaYapi.runtimeconfig.dev.json
+D:\YazilimProjeleri2019\KurYayProjeler\KurYayAnaYapi\KurYayAnaYapi\bin\Debug\netcoreapp2.0\KurYayAnaYapi.dll
+D:\YazilimProjeleri2019\KurYayProjeler\KurYayAnaYapi\KurYayAnaYapi\obj\Debug\netcoreapp2.0\KurYayAnaYapi.csprojAssemblyReference.cache
+D:\YazilimProjeleri2019\KurYayProjeler\KurYayAnaYapi\KurYayAnaYapi\obj\Debug\netcoreapp2.0\KurYayAnaYapi.csproj.CoreCompileInputs.cache
+D:\YazilimProjeleri2019\KurYayProjeler\KurYayAnaYapi\KurYayAnaYapi\obj\Debug\netcoreapp2.0\KurYayAnaYapi.AssemblyInfoInputs.cache
+D:\YazilimProjeleri2019\KurYayProjeler\KurYayAnaYapi\KurYayAnaYapi\obj\Debug\netcoreapp2.0\KurYayAnaYapi.AssemblyInfo.cs
+D:\YazilimProjeleri2019\KurYayProjeler\KurYayAnaYapi\KurYayAnaYapi\bin\Debug\netcoreapp2.0\KurYayAnaYapi.pdb
+D:\YazilimProjeleri2019\KurYayProjeler\KurYayAnaYapi\KurYayAnaYapi\obj\Debug\netcoreapp2.0\KurYayAnaYapi.dll
+D:\YazilimProjeleri2019\KurYayProjeler\KurYayAnaYapi\KurYayAnaYapi\obj\Debug\netcoreapp2.0\KurYayAnaYapi.pdb
